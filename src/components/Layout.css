@@ -1,0 +1,29 @@
+header{
+    background-color: blue ;
+    height: 150px;
+}
+
+.container {
+    display:flex;
+    justify-content: center;
+    
+  }
+  
+  .left {
+    
+    background-color:yellow;
+    height:150px;
+    flex: 1; 
+  }
+  
+  .right {
+    
+    background-color: red;
+    height:150px;
+    flex: 1; 
+  }
+  
+footer{
+    background-color: green;
+    height: 150px;
+}
