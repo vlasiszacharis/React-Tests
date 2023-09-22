@@ -1,0 +1,21 @@
+.phone-container{
+    background-color:black;
+    height:400px;
+    width:400px;
+    border: 10px solid blue;
+    padding: 30px;
+    color:white;
+
+}
+
+.submit-button{
+    color:red;
+}
+
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+  }
+  
