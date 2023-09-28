@@ -16,7 +16,7 @@ function App(){
 
     const handleChange = (event)=>{
         const {name,value} = event.target
-        setForm(e=>({...e,[name]:value }));
+        setForm({...form,[name]:value });
     }
 
     const handleSubmit = (event)=>{
